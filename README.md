@@ -1,4 +1,3 @@
-# HafizaliGunesTakipSistemi
 # HAFIZALI AKILLI GÜNEŞ TAKİP SİSTEMİ
 
 Merhabalar bu projemi de sizlerle paylaşmaktan büyük bir mutluluk duyuyorum projeye gelecek olursak akıllı güneş panellerinin çalışmasına benzer fakat güneş konumlarının zamansal olarak tarayan ve hafızaya aldıktan sonra güneş konumuna gelen bir sistemdir.
