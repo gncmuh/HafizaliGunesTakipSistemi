@@ -1,6 +1,6 @@
-/* Herkese iyi çalışmalar 
- *  
-*/
+/*Herkese iyi çalışmalar diliyorum.
+ Sabri Genç
+ */
 
 #include <Servo.h>
 #include <Smoothed.h>
